@@ -1,0 +1,3 @@
+Name: Sridhar Ramachandran <br>
+Roll Number: DA25D002 <br>
+The purpose of this work is to study the efficacy of different imputation strategies for missing data and compare with listwise deletion. The [Default of Credit Card Clients Dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) is used here. This dataset contains the information of 30000 clients (defalters and non-defaulters). The features are credit amount, age, sex, marital status, education and past history of repayment status and bill amounts. The dataset is clean and does not contain missing values. Hence, MAR (missing at random) values are induced.
